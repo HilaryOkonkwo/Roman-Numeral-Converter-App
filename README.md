@@ -64,21 +64,21 @@ Roman-Numeral-Converter-App/
 
   Feel free to contribute! Here's how you can help:
 
-  Fork the repository.
+  1. Fork the repository.
 
-  Create new branch:
+  2. Create new branch:
 
-  git checkout -b branch-name
+     git checkout -b branch-name
 
-  Commit your changes:
-  git commit -m "Adding new feature"
+  3. Commit your changes:
+     git commit -m "Adding new feature"
 
-  Push the branch:
-  git push origin branch-name
+  4. Push the branch:
+     git push origin branch-name
 
-  Open pull request
+  5. Open pull request
 
-  Customize: You can contribute to expanding the current limit of conversion
+   Customize: You can contribute to expanding the current limit of conversion
 
 ## Contact
  Feel free to reach out via:
